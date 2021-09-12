@@ -62,8 +62,8 @@ export default function k() {
         text: "Style Guide"
     }), e(a, null)) : null, e(t, {
         className: "self-end",
-        href: "https://192.168.149.59/api/events",
-        text: "API"
+        href: "",
+        text: ""
     }), e(t, {
         className: "self-end",
         href: "",
